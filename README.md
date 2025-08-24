@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Yuangallardo8/Yuangallardo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 • BSIT Student at Laguna State Polytechnic University
  
 • Currently learning Python, Flask, SQL, Flutter, and Dart
@@ -24,3 +21,6 @@ Current Projects
 Email: yuangallardo8@gmail.com
 
  “Code, Learn, and Share.”
+<!--
+**Yuangallardo8/Yuangallardo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
